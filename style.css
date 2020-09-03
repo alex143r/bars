@@ -1,0 +1,11 @@
+#bars {
+  display: flex;
+  align-items: flex-end;
+}
+.bars {
+  max-height: 320px;
+  background-color: purple;
+  width: 100px;
+  margin: 2px;
+  border: 1px solid black;
+}
